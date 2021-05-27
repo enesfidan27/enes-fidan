@@ -1,0 +1,30 @@
+{
+  "name": "elgrandehilmi",
+  "version": "1.0.0",
+  "description": "hill me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "enes": "echo 'benimadım0'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "el",
+    "grande",
+    "hilmi"
+  ],
+  "author": "Enes Fidan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.11",
+    "nodemailer": "^6.6.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/enesfidan27/enes-fidan.git"
+  }
+}
